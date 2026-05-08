@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,26&height=230&section=header&text=megumin&fontSize=96&fontColor=FFB7C5&fontAlignY=42&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=64&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=43&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=64&descColor=ffe4ef&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -201,7 +201,7 @@ xychart-beta
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,py&frameworks=react,next,tailwind&tools=docker,redis,git,vscode)](https://github.com/meguminn1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python&frameworks=react,next,tailwind&tools=docker,redis,git,vscode)](https://github.com/meguminn1)
 
 <br/><br/>
 
@@ -442,7 +442,7 @@ xychart-beta
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/3d-output/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 <br/>
 
@@ -542,4 +542,4 @@ xychart-beta
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,26&height=140&section=footer&text=Build+simple.+Scale+smart.+Stay+reliable.&fontSize=16&fontColor=FFB7C5&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=140&section=footer&text=Build+simple.+Scale+smart.+Stay+reliable.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
