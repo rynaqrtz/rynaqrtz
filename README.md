@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8,60A5FA,93C5FD,DBEAFE&height=320&section=header&text=meguminn1&fontSize=92&fontColor=FFFFFF&fontAlignY=38&desc=Nakano%20Miku%20Theme%20%E2%80%A2%20soft%20blue%20%E2%80%A2%20cute%20anime%20%E2%80%A2%20clean%20code&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="header" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=7DD3FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=940&lines=Soft+blue+anime+vibes+%E2%9C%A8;Clean+architecture+%E2%80%A2+fast+APIs+%E2%80%A2+stable+systems;Cute+theme%2C+serious+engineering" width="100%" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=7DD3FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=940&lines=Soft+blue+anime+vibes+%E2%9C%A8;Clean+architecture+%E2%80%A2+fast+APIs+%E2%80%A2+stable+systems;Backend+engineering" width="100%" alt="typing" />
 
 <br />
 
