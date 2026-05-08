@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1000&color=39C5BB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Building+QrtzMusic+%E2%80%94+Serverless+%26+Zero-Auth+%F0%9F%8E%A7;Queue+Systems+%C2%B7+BullMQ+%2B+Redis+%C2%B7+Low+Latency+%E2%9A%A1;Node.js+%C2%B7+TypeScript+%C2%B7+Clean+Architecture;Build+simple.+Scale+smart.+Stay+reliable.+%F0%9F%8C%B8" alt="Typing Animation" />
 
 <br/><br/>
@@ -416,12 +420,6 @@ xychart-beta
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=meguminn1&theme=tokyonight&hide_border=true&stroke=39C5BB&ring=39C5BB&fire=7EC8E3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=39C5BB&dates=aaaaaa&background=0d1117&border_radius=12" height="195" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39C5BB&icon_color=7EC8E3&text_color=ffffff&ring_color=39C5BB" height="195" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39C5BB&text_color=ffffff&langs_count=8" height="195" alt="Top Languages" />
 
 <br/><br/>
 
