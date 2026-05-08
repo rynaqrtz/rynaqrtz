@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=43&desc=backend+engineer+%E2%80%A2+system+designer&descAlignY=60&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFB7C5,ff8fb1&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=35&desc=backend+engineer+%E2%80%A2+system+designer&descAlignY=55&descAlign=50" width="100%" alt="header" />
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FFB7C5&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Building+scalable+backend+systems;Obsessed+with+clean+architecture;Queue+systems+%26+low-latency+patterns" width="100%" alt="typing" />
 
@@ -355,7 +355,7 @@ xychart-beta
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║               🌐  SCRAPER ECOSYSTEM  —  meguminn1                   ║
-╠══════════════════════════════════════════════════════════════════╣
+╠═══════════════════════════════════════════════════════════��══════╣
 ║                                                                      ║
 ║  PHASE 1 — Foundation                               ✅  SHIPPED      ║
 ║  ├─ QrtzMusic YouTube Scraper  [Node.js · BullMQ]                   ║
@@ -410,9 +410,7 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&icon_color=ff8fb1&text_color=ffffff&ring_color=FFB7C5&cache_seconds=86400" width="100%" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguminn1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&text_color=ffffff&langs_count=8&cache_seconds=86400" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=meguminn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB7C5&icon_color=ff8fb1&text_color=ffffff&ring_color=FFB7C5" width="100%" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -431,54 +429,6 @@ xychart-beta
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meguminn1&theme=tokyonight" height="160" alt="Stats Card" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🌆 &nbsp;Contribution City — 3D Isometric
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/3d-output/profile-night-rainbow.svg?cache_bust=1" alt="3D Contribution Graph" width="100%" />
-
-<br/>
-
-<sub><i>🌆 Contribution skyline — each tower = one active day &nbsp;·&nbsp; height = commit count</i></sub>
-
-</div>
-
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  ONE-TIME SETUP — untuk aktifkan 3D graph di atas:      ║
-  ║                                                          ║
-  ║  Buat file: .github/workflows/3d-contrib.yml            ║
-  ║  Isi dengan workflow berikut, lalu run manually:        ║
-  ╚══════════════════════════════════════════════════════════╝
-
-  name: GitHub 3D Contribution
-  on:
-    schedule:
-      - cron: "0 18 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v3
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: meguminn1
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: main
-            build_dir: profile-3d-contrib
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 <br/>
 
@@ -525,6 +475,10 @@ xychart-beta
 <a href="https://github.com/meguminn1">
   <img src="https://img.shields.io/badge/GitHub-meguminn1-FFB7C5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38"/>
 </a>
+
+<br/><br/>
+
+<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku-banner" />
 
 <br/><br/>
 
