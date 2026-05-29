@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF2,50:39C5BB,100:0097A7&height=260&section=header&text=megumin&fontSize=96&fontColor=ffffff&fontAlignY=38&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=60&descColor=E0F7FA&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF2,50:39C5BB,100:0097A7&height=260&section=header&text=rynaqrtz&fontSize=96&fontColor=ffffff&fontAlignY=38&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=60&descColor=E0F7FA&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -13,9 +13,9 @@
 <br/><br/>
 
 <table><tr>
-<td><a href="https://github.com/meguminn1"><img src="https://komarev.com/ghpvc/?username=meguminn1&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" /></a></td>
-<td><a href="https://github.com/meguminn1?tab=followers"><img src="https://img.shields.io/github/followers/meguminn1?color=7EC8E3&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
-<td><a href="https://github.com/meguminn1"><img src="https://img.shields.io/github/stars/meguminn1?color=0097A7&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
+<td><a href="https://github.com/rynaqrtz"><img src="https://komarev.com/ghpvc/?username=meguminn1&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" /></a></td>
+<td><a href="https://github.com/rynaqrtz?tab=followers"><img src="https://img.shields.io/github/followers/rynaqrtz?color=7EC8E3&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
+<td><a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/github/stars/rynaqrtz?color=0097A7&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
 </tr></table>
 
 </div>
@@ -30,7 +30,7 @@
 
 ```typescript
 const megumin: Developer = {
-  name      : "Megumin",
+  name      : "Ryna",
   role      : "Backend Engineer & System Designer",
   location  : "🌏 Indonesia",
 
@@ -201,11 +201,11 @@ xychart-beta
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=meguminn1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/meguminn1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rynaqrtz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/meguminn1)
 
 <br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python&frameworks=react,next,tailwind&tools=docker,redis,git,vscode)](https://github.com/meguminn1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python&frameworks=react,next,tailwind&tools=docker,redis,git,vscode)](https://github.com/rynaqrtz)
 
 <br/><br/>
 
@@ -369,7 +369,7 @@ xychart-beta
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║               🌐  SCRAPER ECOSYSTEM  —  meguminn1                   ║
+║               🌐  SCRAPER ECOSYSTEM  —  rynaqrtz                   ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  PHASE 1 — Foundation                               ✅  SHIPPED      ║
@@ -415,7 +415,7 @@ xychart-beta
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=meguminn1&theme=algolia&column=7&margin-w=12&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rynaqrtz&theme=algolia&column=7&margin-w=12&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -423,19 +423,19 @@ xychart-beta
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meguminn1&bg_color=0d1117&color=39C5BB&line=7EC8E3&point=39C5BB&area=true&hide_border=true&area_color=0d2a2a&radius=6" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=0d1117&color=39C5BB&line=7EC8E3&point=39C5BB&area=true&hide_border=true&area_color=0d2a2a&radius=6" width="100%" alt="Activity Graph" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meguminn1&theme=tokyonight" width="100%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynaqrtz&theme=tokyonight" width="100%" alt="Profile Summary" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meguminn1&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rynaqrtz&theme=tokyonight" height="160" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meguminn1&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rynaqrtz&theme=tokyonight" height="160" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meguminn1&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rynaqrtz&theme=tokyonight" height="160" />
 
 </div>
 
@@ -449,7 +449,7 @@ xychart-beta
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meguminn1/meguminn1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 </div>
 
@@ -481,7 +481,7 @@ xychart-beta
   <img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" height="38"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/meguminn1">
+<a href="https://github.com/rynaqrtz">
   <img src="https://img.shields.io/badge/GitHub-meguminn1-39C5BB?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38"/>
 </a>
 
@@ -495,7 +495,7 @@ xychart-beta
 
 <br/><br/>
 
-<sub>𓂃 ✦ &nbsp; <b>meguminn1</b> &nbsp; ✦ 𓂃</sub>
+<sub>𓂃 ✦ &nbsp; <b>rynaqrtz</b> &nbsp; ✦ 𓂃</sub>
 
 <br/>
 
