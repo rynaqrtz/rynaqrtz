@@ -1,70 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF2,50:39C5BB,100:0097A7&height=260&section=header&text=rynaqrtz&fontSize=96&fontColor=ffffff&fontAlignY=38&desc=backend+engineer+%E2%80%A2+system+designer+%E2%80%A2+indonesia+%F0%9F%8C%B8&descSize=18&descAlignY=60&descColor=E0F7FA&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCCD5,25:FFB7C5,60:C9B1FF,100:39C5BB&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=ffffff&fontAlignY=37&desc=full+stack+engineer+%C2%B7+indonesia+%C2%B7+builds+in+silence+%F0%9F%8C%B8&descSize=15&descAlignY=63&descColor=F0E6FF&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku" />
+<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku nakano" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1000&color=39C5BB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Building+QrtzMusic+%E2%80%94+Serverless+%26+Zero-Auth+%F0%9F%8E%A7;Queue+Systems+%C2%B7+BullMQ+%2B+Redis+%C2%B7+Low+Latency+%E2%9A%A1;Node.js+%C2%B7+TypeScript+%C2%B7+Clean+Architecture;Build+simple.+Scale+smart.+Stay+reliable.+%F0%9F%8C%B8" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=FF8FAB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=she+builds+in+silence.+ships+when+it%27s+ready.;qrtzai+%E2%80%94+cloudflare+workers+%C2%B7+supabase+%C2%B7+edge-first;next.js+%C2%B7+typescript+%C2%B7+clean+architecture;init+commit%3A+another+late+night%2C+another+feature." alt="Typing" />
 
 <br/><br/>
 
-<table><tr>
-<td><a href="https://github.com/rynaqrtz"><img src="https://komarev.com/ghpvc/?username=meguminn1&color=39C5BB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" /></a></td>
-<td><a href="https://github.com/rynaqrtz?tab=followers"><img src="https://img.shields.io/github/followers/rynaqrtz?color=7EC8E3&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
-<td><a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/github/stars/rynaqrtz?color=0097A7&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" /></a></td>
-</tr></table>
+<a href="https://github.com/rynaqrtz"><img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=FF8FAB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" /></a>
+&nbsp;
+<a href="https://github.com/rynaqrtz?tab=followers"><img src="https://img.shields.io/github/followers/rynaqrtz?color=C9B1FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" /></a>
+&nbsp;
+<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/github/stars/rynaqrtz?color=39C5BB&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;`< About Me />`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> &nbsp;`< About Me />`
 
 <br/>
 
 ```typescript
-const megumin: Developer = {
+const ryna: Developer = {
   name      : "Ryna",
-  role      : "Backend Engineer & System Designer",
-  location  : "🌏 Indonesia",
+  role      : "Full Stack Engineer",
+  location  : "Indonesia",
 
   focus     : [
-    "Serverless Architecture",
-    "REST & Queue API Design",
+    "Edge & Serverless Architecture",
+    "Full Stack Web Development",
     "Clean Code & Maintainability",
-    "Low-Latency System Patterns",
+    "AI-powered Web Applications",
   ],
 
   currently : {
-    building  : "QrtzMusic — no auth, no DB, fully client-driven 🎧",
-    learning  : "Advanced Queue Systems with BullMQ + Redis",
-    exploring : "Edge Functions & low-latency patterns",
-    obsessing : "Clean API contracts & graceful error boundaries",
+    building  : "qrtzai — bilingual AI chat with 10-tool agent system",
+    learning  : "Cloudflare Workers & Edge Computing patterns",
+    exploring : "E2B Sandbox & AI agent orchestration",
+    obsessing : "Clean API contracts & graceful error handling",
   },
 
   stack     : {
-    backend   : ["Node.js", "TypeScript", "Python", "BullMQ", "Redis"],
+    backend   : ["Node.js", "TypeScript", "Python", "Redis"],
     frontend  : ["Next.js", "React", "Tailwind CSS"],
-    infra     : ["Docker", "Vercel", "Serverless Functions"],
-    tools     : ["Git", "Postman", "VS Code", "Insomnia"],
+    infra     : ["Vercel", "Cloudflare", "Supabase", "Docker", "Nginx"],
+    tools     : ["Git", "Postman", "VS Code"],
   },
 
-  philosophy : "Build simple. Scale only when needed. Design it right from the start.",
-  openTo     : ["Collabs 🤝", "Open Source 🌱", "Interesting Problems 🌸"],
+  philosophy : "build simple. scale when it matters. stay quiet. ship loud.",
+  openTo     : ["meaningful collabs", "open source", "hard problems"],
 };
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 📡 &nbsp;Current Status
+## 📡 &nbsp;`< Current Status />`
 
 <br/>
 
@@ -75,25 +75,25 @@ const megumin: Developer = {
 <td width="50%" valign="top">
 
 ```yaml
-# 🔨 Now Building
-project  : QrtzMusic v2
-status   : 🟢 Active Development
-pattern  : Serverless · Zero-Auth
-storage  : Client-Side Only
-deploy   : Vercel Edge Network
-uptime   : 99%+ 🚀
+# now building
+project  : qrtzai
+status   : active
+stack    : Cloudflare Workers · Supabase
+features : 10-tool AI agent system
+lang     : Bilingual — ID / EN
+deploy   : Cloudflare + Vercel
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ```yaml
-# 📚 Currently Studying
-primary  : BullMQ advanced patterns
-secondary: Redis Streams & Pub/Sub
-side     : Edge Function optimization
-reading  : "Clean Architecture" - Uncle Bob
-goal     : < 100ms p50 latency 🎯
+# currently studying
+primary  : Cloudflare Workers patterns
+secondary: Supabase RLS & Realtime
+side     : E2B Sandbox integration
+reading  : Clean Architecture — Uncle Bob
+goal     : p50 latency < 100ms
 ```
 
 </td>
@@ -104,27 +104,124 @@ goal     : < 100ms p50 latency 🎯
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 🎵 &nbsp;Now Playing on Spotify
+## 🎵 &nbsp;`< Now Playing />`
 
 <br/>
 
 <div align="center">
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31umwsbz4qfsv7feixuu5evcaj6m&count=3&unique=true&width=800)](https://open.spotify.com/user/31umwsbz4qfsv7feixuu5evcaj6m)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31umwsbz4qfsv7feixuu5evcaj6m&count=5&unique=true&width=800)](https://open.spotify.com/user/31umwsbz4qfsv7feixuu5evcaj6m)
 
 <br/>
 
-<sub><i>🎵 Last 3 tracks · updates automatically · click to open Spotify profile</i></sub>
+<sub><i>last 5 tracks · refreshes automatically</i></sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 🌸 &nbsp;Philosophy & Principles
+## 🧠 &nbsp;`< Tech Stack />`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⚙️ Backend & Storage**
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,py,bun,redis&theme=dark" />
+
+`Node.js` · `TypeScript`
+`Python` · `Bun` · `Redis`
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&theme=dark" />
+
+`Next.js` · `React`
+`Tailwind` · `JavaScript`
+
+</td>
+<td align="center" width="25%">
+
+**☁️ Infra & Cloud**
+
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,supabase,docker,nginx&theme=dark" />
+
+`Vercel` · `Cloudflare` · `Supabase`
+`Docker` · `Nginx`
+
+</td>
+<td align="center" width="25%">
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+`Git` · `GitHub`
+`VS Code` · `Postman`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
+
+## 🏆 &nbsp;`< Stats />`
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rynaqrtz&theme=algolia&column=7&margin-w=12&no-bg=true&no-frame=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9B1FF&icon_color=FF8FAB&text_color=ffffff&border_radius=12" height="185" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9B1FF&text_color=ffffff&border_radius=12&langs_count=8" height="185" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=rynaqrtz&theme=tokyonight&hide_border=true&stroke=FF8FAB&ring=C9B1FF&fire=FF8FAB&currStreakNum=ffffff&sideNums=ffffff&sideLabels=C9B1FF&dates=aaaaaa&background=0d1117&border_radius=12" height="195" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=0d1117&color=C9B1FF&line=FF8FAB&point=39C5BB&area=true&hide_border=true&area_color=1a0520&radius=6" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynaqrtz&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rynaqrtz&theme=tokyonight" height="160" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rynaqrtz&theme=tokyonight" height="160" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rynaqrtz&theme=tokyonight&utcOffset=7" height="160" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
+
+## 🌸 &nbsp;`< Philosophy />`
 
 <br/>
 
@@ -149,312 +246,76 @@ goal     : < 100ms p50 latency 🎯
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 🧠 &nbsp;Tech Stack
+## 🐍 &nbsp;`< Contribution Snake />`
 
 <br/>
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rynaqrtz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/meguminn1)
-
-<br/>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python&frameworks=react,next,tailwind&tools=docker,redis,git,vscode)](https://github.com/rynaqrtz)
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**⚙️ Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,py,bun&theme=dark" />
-
-`Node.js` &nbsp;`TypeScript`
-`Python` &nbsp;`Bun`
-
-</td>
-<td align="center" width="25%">
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js&theme=dark" />
-
-`Next.js` &nbsp;`React`
-`Tailwind` &nbsp;`JavaScript`
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Infra & Queue**
-
-<img src="https://skillicons.dev/icons?i=vercel,redis,docker,nginx&theme=dark" />
-
-`Vercel` &nbsp;`Redis`
-`BullMQ` &nbsp;`Docker`
-
-</td>
-<td align="center" width="25%">
-
-**🛠️ Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-`Git` &nbsp;`GitHub`
-`VS Code` &nbsp;`Postman`
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 🚀 &nbsp;Featured Projects
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 QrtzMusic
-
-> *Serverless music platform — no login, no DB, fully client-driven.*
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-39C5BB?style=flat-square" />
-<img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-
-<br/><br/>
-
-- 🔓 Zero-auth — no session, no cookies, no friction
-- 💾 Client-side storage — zero DB round-trips
-- 🤖 AI recommendations via Kobeni Service
-- ⚡ Auto-scaling on Vercel Edge Network
-- 📊 P50: **110ms** · Uptime: **99%+**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌸 Qrtznime
-
-> *Immersive anime discovery web experience.*
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-<br/><br/>
-
-- 🎌 Immersive anime discovery & browsing
-- ✨ Smooth micro-animations & transitions
-- 🧩 Clean component-driven architecture
-- 📱 Mobile-first & fully responsive
-- 🔍 Blazing-fast search & filter UX
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Kobeni Service
-
-> *AI microservice powering QrtzMusic recommendations.*
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/BullMQ-39C5BB?style=flat-square" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Serverless-0097A7?style=flat-square" />
-
-<br/><br/>
-
-- 🔁 Queue-based job processing via BullMQ
-- 🧠 AI-driven music curation & playlists
-- ⚡ Decoupled & fault-tolerant by design
-- 🔒 Rate-limited, validated, stateless
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Scraper SDK *(coming soon)*
-
-> *Open-source distributed scraper toolkit.*
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square" />
-<img src="https://img.shields.io/badge/BullMQ-39C5BB?style=flat-square" />
-
-<br/><br/>
-
-- 🕷️ Unified gateway for all scrapers
-- 📦 Publishable as npm package
-- 🔁 Queue-driven, rate-limited workers
-- 🌊 Redis Streams real-time pipeline
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-
-## 🗺️ &nbsp;Roadmap — The Scraper Empire
+## ✦ &nbsp;`< ... />`
 
 <br/>
 
 <div align="center">
-
-> *Building a distributed scraper ecosystem — one target at a time.*
-
-<br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║               🌐  SCRAPER ECOSYSTEM  —  rynaqrtz                   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PHASE 1 — Foundation                               ✅  SHIPPED      ║
-║  ├─ QrtzMusic YouTube Scraper  [Node.js · BullMQ]                   ║
-║  └─ Kobeni AI Service          [Serverless · Redis]                  ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PHASE 2 — Scraper Army                             🔨  BUILDING     ║
-║  ├─ Anime Metadata Scraper     [Python · Cheerio]   🟡 WIP          ║
-║  ├─ Lyrics Scraper             [Node.js · Queue]    🟡 WIP          ║
-║  ├─ Music Chart Scraper        [TypeScript]         🔵 PLANNED      ║
-║  ├─ Trending Topics Scraper    [BullMQ · Redis]     🔵 PLANNED      ║
-║  └─ Social Media Feed Scraper  [Puppeteer]          🔵 PLANNED      ║
-║                                                                      ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  PHASE 3 — Orchestration                            🔮  FUTURE       ║
-║  ├─ Unified Scraper Gateway    [API · Rate Limit]   🔮 SOON         ║
-║  ├─ Scraper Worker Cluster     [Queue · BullMQ]     🔮 SOON         ║
-║  ├─ Real-time Data Pipeline    [Redis Streams]      🔮 SOON         ║
-║  └─ Open-source Scraper SDK    [npm package]        🔮 SOON         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+
+      she codes at 2am.
+      no announcements. no threads.
+      just commits.
+
+      init commit  :  self
+      push --force :  consistency
+      merge        :  the quiet work
+
+      the code speaks for itself.
+
+  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-| Badge | Status |
-|:---:|:---|
-| ✅ | Shipped & running in production |
-| 🟡 | In active development |
-| 🔵 | Planned & designed |
-| 🔮 | Future vision |
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=C9B1FF&bg_color=0d1117" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFCCD5,50:C9B1FF,100:39C5BB&height=2" width="100%" />
 
-## 🏆 &nbsp;Stats & Achievements
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rynaqrtz&theme=algolia&column=7&margin-w=12&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=meguminn1&theme=tokyonight&hide_border=true&stroke=39C5BB&ring=39C5BB&fire=7EC8E3&currStreakNum=ffffff&sideNums=ffffff&sideLabels=39C5BB&dates=aaaaaa&background=0d1117&border_radius=12" height="195" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=0d1117&color=39C5BB&line=7EC8E3&point=39C5BB&area=true&hide_border=true&area_color=0d2a2a&radius=6" width="100%" alt="Activity Graph" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynaqrtz&theme=tokyonight" width="100%" alt="Profile Summary" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rynaqrtz&theme=tokyonight" height="160" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rynaqrtz&theme=tokyonight" height="160" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rynaqrtz&theme=tokyonight" height="160" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-
-## 🐍 &nbsp;Contribution Snake
+## 💌 &nbsp;`< Connect />`
 
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-
-## 💭 &nbsp;Random Dev Thought
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=39C5BB&bg_color=0d1117" alt="Random Dev Quote" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-
-## 🌐 &nbsp;Connect With Me
-
-<br/>
-
-<div align="center">
-
-<a href="https://t.me/rynaaqrtz">
-  <img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<a href="https://t.me/rynaaqrtz"><img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-FF8FAB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" height="38"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/rynaqrtz">
-  <img src="https://img.shields.io/badge/GitHub-meguminn1-39C5BB?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-C9B1FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38"/></a>
 
 <br/><br/>
 
-<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku" />
+<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku nakano" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=2500&color=39C5BB&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+System+Designer+%7C+Indonesia+%F0%9F%8C%B8;Always+building+something+quiet+%26+impactful+%E2%9C%A8;Node.js+%7C+TypeScript+%7C+BullMQ+%7C+Serverless+%7C+Redis;Build+simple.+Scale+smart.+Stay+reliable." alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=C9B1FF&center=true&vCenter=true&width=720&lines=full+stack+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;she+doesn%27t+announce.+she+ships.;next.js+%C2%B7+typescript+%C2%B7+cloudflare+%C2%B7+supabase;build+simple.+scale+smart.+stay+quiet." />
 
 <br/><br/>
 
 <sub>𓂃 ✦ &nbsp; <b>rynaqrtz</b> &nbsp; ✦ 𓂃</sub>
 
-<br/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF2,50:39C5BB,100:0097A7&height=140&section=footer&text=Build+simple.+Scale+smart.+Stay+reliable.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39C5BB,35:C9B1FF,70:FFB7C5,100:FFCCD5&height=140&section=footer&text=build+simple.+scale+smart.+stay+quiet.&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
