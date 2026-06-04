@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCCD5,25:FFB7C5,60:C9B1FF,100:39C5BB&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=ffffff&fontAlignY=37&desc=full+stack+engineer+%C2%B7+indonesia+%C2%B7+builds+in+silence+%F0%9F%8C%B8&descSize=15&descAlignY=63&descColor=F0E6FF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE5EC,35:FFCAD4,70:F9C6FF,100:E0BBFF&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=ffffff&fontAlignY=37&desc=full+stack+engineer+%C2%B7+indonesia+%C2%B7+Become+who+you+are.&descSize=15&descAlignY=63&descColor=FFF8FB&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -87,12 +87,12 @@ const ryna: Developer = {
 
 ```yaml
 # now building
-project  : qrtzai
+project  : qrtznime
 status   : active
-stack    : Cloudflare Workers · Supabase
-features : 10-tool AI agent system
-lang     : Bilingual — ID / EN
-deploy   : Cloudflare + Vercel
+stack    : React 
+features : Login
+lang     : ID / EN
+deploy   : Vercel
 ```
 
 </td>
