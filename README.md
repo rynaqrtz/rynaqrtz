@@ -8,15 +8,23 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=FF8FAB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=she+builds+in+silence.+ships+when+it%27s+ready.;qrtzai+%E2%80%94+cloudflare+workers+%C2%B7+supabase+%C2%B7+edge-first;next.js+%C2%B7+typescript+%C2%B7+clean+architecture;init+commit%3A+another+late+night%2C+another+feature." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=FF8FAB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Become+who+you+are.;qrtzai+%E2%80%94+cloudflare+workers+%C2%B7+supabase+%C2%B7+edge-first;next.js+%C2%B7+typescript+%C2%B7+clean+architecture;init+commit%3A+another+late+night%2C+another+feature." alt="Typing" />
 
 <br/><br/>
 
-<a href="https://github.com/rynaqrtz"><img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=FF8FAB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" /></a>
+<div align="center">
+
+<a href="https://github.com/rynaqrtz">
+  <img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=FF8FAB&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
+</a>
 &nbsp;
-<a href="https://github.com/rynaqrtz?tab=followers"><img src="https://img.shields.io/github/followers/rynaqrtz?color=C9B1FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/rynaqrtz?tab=followers">
+  <img src="https://img.shields.io/github/followers/rynaqrtz?color=D8B4FE&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 &nbsp;
-<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/github/stars/rynaqrtz?color=39C5BB&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/rynaqrtz">
+  <img src="https://img.shields.io/github/stars/rynaqrtz?color=F9A8D4&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
