@@ -150,37 +150,6 @@ goal     : < 100ms p50 latency 🎯
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-<img src="https://img.shields.io/badge/⬆%20Uptime-99%25-39C5BB?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚡%20P50%20Latency-110ms-7EC8E3?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚡%20P99%20Latency-260ms-0097A7?style=for-the-badge&labelColor=0d1117" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/❄%20Cold%20Start-~400ms-B2EBF2?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/☁%20Architecture-Serverless-39C5BB?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/💾%20Storage-Client--Side-0097A7?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/📈%20Scaling-Auto%20Vercel-7EC8E3?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
-```mermaid
-xychart-beta
-    title "QrtzMusic — Latency Distribution (ms)"
-    x-axis ["P50", "P75", "P90", "P99"]
-    y-axis 0 --> 300
-    bar  [110, 140, 180, 260]
-    line [110, 140, 180, 260]
-```
-
-<br/>
-
-> **Design Decisions:**&nbsp; Zero-auth removes session overhead entirely. Client-side storage eliminates DB round-trips. Serverless gives instant global scale. Every decision traces back to one goal — **latency**.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
 
 ## 🧠 &nbsp;Tech Stack
 
