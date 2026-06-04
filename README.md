@@ -294,7 +294,7 @@ goal     : p50 latency < 100ms
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=C9B1FF&center=true&vCenter=true&width=720&lines=full+stack+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;she+doesn%27t+announce.+she+ships.;next.js+%C2%B7+typescript+%C2%B7+cloudflare+%C2%B7+supabase;build+simple.+scale+smart.+stay+quiet." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=C9B1FF&center=true&vCenter=true&width=720&lines=full+stack+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;without+music,+life+would+be+a+mistake.;next.js+%C2%B7+typescript+%C2%B7+cloudflare+%C2%B7+supabase;build+simple.+scale+smart.+stay+quiet." />
 
 <br/><br/>
 
