@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=FF8FAB&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Become+who+you+are.;qrtzai+%E2%80%94+cloudflare+workers+%C2%B7+supabase+%C2%B7+edge-first;next.js+%C2%B7+typescript+%C2%B7+clean+architecture;init+commit%3A+another+late+night%2C+another+feature." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=FF8FAB&background=00000000&center=true&vCenter=true&width=720&lines=Become+who+you+are.;qrtznime;React+%C2%B7+Next.js+%C2%B7+Supabase;currently+building+login+system;another+late+night%2C+another+feature." alt="Typing" />
 
 <br/><br/>
 
@@ -89,8 +89,8 @@ const ryna: Developer = {
 # now building
 project  : qrtznime
 status   : active
-stack    : React 
-features : Login
+stack    : React • Next.js • Supabase
+features : login and others
 lang     : ID / EN
 deploy   : Vercel
 ```
