@@ -268,22 +268,6 @@ goal     : p50 latency < 100ms
 
 <div align="center">
 
-```
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-
-      she codes at 2am.
-      no announcements. no threads.
-      just commits.
-
-      init commit  :  self
-      push --force :  consistency
-      merge        :  the quiet work
-
-      the code speaks for itself.
-
-  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=C9B1FF&bg_color=0d1117" />
