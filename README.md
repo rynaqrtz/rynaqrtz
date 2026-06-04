@@ -150,19 +150,6 @@ goal     : < 100ms p50 latency 🎯
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B2EBF2,50:39C5BB,100:0097A7&height=3" width="100%" />
-
-## 🏗️ &nbsp;System Design — QrtzMusic
-
-<br/>
-
-<div align="center">
-
-<img src="https://i.postimg.cc/76vt6M3f/14306.png" alt="QrtzMusic System Architecture" width="100%" />
-
-<sub><i>🎧 Full Architecture — QrtzMusic &nbsp;|&nbsp; Client-First &nbsp;·&nbsp; Serverless &nbsp;·&nbsp; Zero-Auth</i></sub>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/⬆%20Uptime-99%25-39C5BB?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/⚡%20P50%20Latency-110ms-7EC8E3?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/⚡%20P99%20Latency-260ms-0097A7?style=for-the-badge&labelColor=0d1117" />
