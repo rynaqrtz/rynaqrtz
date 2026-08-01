@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku nakano" />
+<img src="https://cdn.zass.in/nNzaEbrYWV.gif" width="100%" alt="banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=静かに、されど確かに;backend+engineer+%C2%B7+indonesia;Node.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+Bun;another+late+night%2C+another+endpoint.;build+clean.+ship+quiet.+scale+when+it+matters." alt="Typing" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=静かに、されど確かに;backend+engineer+%C2%B7+indonesia;Node.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+Bun;another+late+night%2C+another+endpoint.;build+clean.+ship+quiet.+scale+when+it+matters.)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -187,13 +187,9 @@ reading  : Clean Architecture — Uncle Bob
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rynaqrtz&theme=flat&column=7&margin-w=12&no-bg=true&no-frame=true" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&icon_color=c4a882&text_color=2d1f0e&border_radius=12" height="185" />
+<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&icon_color=c4a882&text_color=2d1f0e&border_radius=12&cache_seconds=1800" height="185" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&text_color=2d1f0e&border_radius=12&langs_count=8" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&text_color=2d1f0e&border_radius=12&langs_count=8&cache_seconds=1800" height="185" />
 
 <br/><br/>
 
@@ -202,18 +198,6 @@ reading  : Clean Architecture — Uncle Bob
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=fdf6ec&color=8B6914&line=c4a882&point=d4a017&area=true&hide_border=true&area_color=f0e6d0&radius=6" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rynaqrtz&theme=solarized" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rynaqrtz&theme=solarized" height="160" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rynaqrtz&theme=solarized" height="160" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rynaqrtz&theme=solarized&utcOffset=7" height="160" />
 
 </div>
 
@@ -288,22 +272,6 @@ reading  : Clean Architecture — Uncle Bob
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
 </div>
 
-## ✦ &nbsp;`< ... />`
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&border_color=8B6914&bg_color=fdf6ec" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
-</div>
-
 ## 💌 &nbsp;`< Connect />`
 
 <br/>
@@ -314,15 +282,15 @@ reading  : Clean Architecture — Uncle Bob
 &nbsp;&nbsp;
 <a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-c4a882?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1f0e" height="38"/></a>
 &nbsp;&nbsp;
-<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-rynaqrtz-d4a017?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1f0e" height="38"/></a>
+<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-Chat-d4a017?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1f0e" height="38"/></a>
 
 <br/><br/>
 
-<img src="https://i.postimg.cc/YCKFDmDj/miku-nakano-(1).gif" width="100%" alt="miku nakano" />
+<img src="https://cdn.zass.in/nNzaEbrYWV.gif" width="100%" alt="banner" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=8B6914&center=true&vCenter=true&width=720&lines=backend+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;without+music%2C+life+would+be+a+mistake.;NestJS+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Docker;build+clean.+ship+quiet.+scale+when+it+matters." />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=8B6914&center=true&vCenter=true&width=720&lines=backend+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;without+music%2C+life+would+be+a+mistake.;NestJS+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Docker;build+clean.+ship+quiet.+scale+when+it+matters.)](https://git.io/typing-svg)
 
 <br/><br/>
 
