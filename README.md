@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://cdn.zass.in/nNzaEbrYWV.gif" width="100%" alt="banner" />
+<img src="https://cdn.zass.in/fCaccGTv5p.gif" width="100%" alt="banner" />
 
 <br/>
 
@@ -286,7 +286,7 @@ reading  : Clean Architecture — Uncle Bob
 
 <br/><br/>
 
-<img src="https://cdn.zass.in/nNzaEbrYWV.gif" width="100%" alt="banner" />
+<img src="https://cdn.zass.in/fCaccGTv5p.gif" width="100%" alt="banner" />
 
 <br/><br/>
 
