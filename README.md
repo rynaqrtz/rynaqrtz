@@ -1,31 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,35:e8ddd0,70:d4c4b0,100:c4a882&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=2d1f0e&fontAlignY=37&desc=Backend+Engineer+%C2%B7+Indonesia&descSize=18&descAlignY=63&descColor=5c3d1e&animation=fadeIn" width="100%" alt="rynaqrtz — Backend Engineer, Indonesia" />
+<img src="https://i.postimg.cc/L4gbhKQ0/rynaqrtz.jpg" width="100%" alt="rynaqrtz — Backend Engineer" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=Backend+Engineer;API+Design+%26+Server+Architecture;Open+to+Collaboration+%26+Professional+Networking" alt="Backend Engineer. API Design and Server Architecture. Open to Collaboration and Professional Networking." />
+<b>Backend Engineer</b> &nbsp;·&nbsp; API Design &amp; Server Architecture &nbsp;·&nbsp; Indonesia
 
 <br/><br/>
 
 <a href="https://github.com/rynaqrtz">
-  <img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=8B6914&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rynaqrtz&style=flat-square&label=PROFILE+VIEWS&color=3a3a3a&labelColor=000000&abbreviated=true" alt="Profile views" />
 </a>
 &nbsp;
 <a href="https://github.com/rynaqrtz?tab=followers">
-  <img src="https://img.shields.io/github/followers/rynaqrtz?color=c4a882&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=2d1f0e" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/rynaqrtz?style=flat-square&label=FOLLOWERS&logo=github&logoColor=white&labelColor=000000&color=3a3a3a" alt="GitHub followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open_to_Collaboration-d4a017?style=for-the-badge&labelColor=2d1f0e" alt="Status: open to collaboration" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:c4a882,50:8B6914,100:c4a882" width="100%" alt="" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_Collaboration-3a3a3a?style=flat-square&labelColor=000000" alt="Status: open to collaboration" />
 
 </div>
 
+<hr/>
+
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/user.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/user.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;About
 </h2>
 
@@ -40,14 +38,10 @@
   Please feel free to get in touch through any of the channels listed below.
 </p>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Core Competencies
 </h2>
 
@@ -57,22 +51,18 @@
 
 | &nbsp; | Area | Description |
 |:---:|:---|:---|
-| <img src="https://api.iconify.design/lucide/workflow.svg?color=%238B6914" width="20" height="20" alt="" /> | **API Design and Architecture** | Contract-first API design with clear, consistent, and well-documented interfaces |
-| <img src="https://api.iconify.design/lucide/server.svg?color=%238B6914" width="20" height="20" alt="" /> | **Server Engineering** | High-performance, stateless services built with Node.js, Bun, and Go |
-| <img src="https://api.iconify.design/lucide/database.svg?color=%238B6914" width="20" height="20" alt="" /> | **Database Design and Optimization** | Schema design and query optimization with PostgreSQL, MySQL, and Redis |
-| <img src="https://api.iconify.design/lucide/code.svg?color=%238B6914" width="20" height="20" alt="" /> | **Code Quality and Maintainability** | Modular code organized around the single-responsibility principle |
-| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%238B6914" width="20" height="20" alt="" /> | **Security and Reliability** | Authentication, rate limiting, input validation, and deliberate error handling by default |
+| <img src="https://api.iconify.design/lucide/workflow.svg?color=%23737373" width="20" height="20" alt="" /> | **API Design and Architecture** | Contract-first API design with clear, consistent, and well-documented interfaces |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%23737373" width="20" height="20" alt="" /> | **Server Engineering** | High-performance, stateless services built with Node.js, Bun, and Go |
+| <img src="https://api.iconify.design/lucide/database.svg?color=%23737373" width="20" height="20" alt="" /> | **Database Design and Optimization** | Schema design and query optimization with PostgreSQL, MySQL, and Redis |
+| <img src="https://api.iconify.design/lucide/code.svg?color=%23737373" width="20" height="20" alt="" /> | **Code Quality and Maintainability** | Modular code organized around the single-responsibility principle |
+| <img src="https://api.iconify.design/lucide/shield-check.svg?color=%23737373" width="20" height="20" alt="" /> | **Security and Reliability** | Authentication, rate limiting, input validation, and deliberate error handling by default |
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/layers.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Technical Stack
 </h2>
 
@@ -80,60 +70,19 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%238B6914" width="18" height="18" alt="" />&nbsp;<b>Runtime &amp; Language</b>
-
-<img src="https://skillicons.dev/icons?i=nodejs,go,ts,js,bun&theme=dark" alt="Node.js, Go, TypeScript, JavaScript, Bun" />
-
-`Node.js` · `Go` · `Bun`
-`TypeScript` · `JavaScript`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/lucide/box.svg?color=%238B6914" width="18" height="18" alt="" />&nbsp;<b>Framework</b>
-
-<img src="https://skillicons.dev/icons?i=nestjs,express&theme=dark" alt="NestJS, Express.js" />
-
-`NestJS` · `Express.js`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/lucide/database.svg?color=%238B6914" width="18" height="18" alt="" />&nbsp;<b>Database &amp; Cache</b>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&theme=dark" alt="PostgreSQL, MySQL, Redis, Prisma" />
-
-`PostgreSQL` · `MySQL`
-`Redis` · `Prisma`
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://api.iconify.design/lucide/wrench.svg?color=%238B6914" width="18" height="18" alt="" />&nbsp;<b>DevOps &amp; Tools</b>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" alt="Docker, Git, GitHub, VS Code, Postman" />
-
-`Docker` · `Git`
-`VS Code` · `Postman`
-
-</td>
-</tr>
-</table>
+| &nbsp; | Category | Technologies |
+|:---:|:---|:---|
+| <img src="https://api.iconify.design/lucide/terminal.svg?color=%23737373" width="20" height="20" alt="" /> | **Runtime and Language** | <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> |
+| <img src="https://api.iconify.design/lucide/box.svg?color=%23737373" width="20" height="20" alt="" /> | **Framework** | <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> |
+| <img src="https://api.iconify.design/lucide/database.svg?color=%23737373" width="20" height="20" alt="" /> | **Database and Cache** | <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> |
+| <img src="https://api.iconify.design/lucide/wrench.svg?color=%23737373" width="20" height="20" alt="" /> | **DevOps and Tools** | <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> |
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/target.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/target.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Current Focus
 </h2>
 
@@ -143,22 +92,18 @@
 
 | &nbsp; | Area | Details |
 |:---:|:---|:---|
-| <img src="https://api.iconify.design/lucide/hammer.svg?color=%238B6914" width="20" height="20" alt="" /> | **Building** | Backend systems with NestJS, Go, and PostgreSQL, deployed with Docker on VPS infrastructure |
-| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%238B6914" width="20" height="20" alt="" /> | **Studying** | Go concurrency patterns and gRPC; PostgreSQL query optimization |
-| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238B6914" width="20" height="20" alt="" /> | **Exploring** | Bun runtime internals and edge computing |
-| <img src="https://api.iconify.design/lucide/gauge.svg?color=%238B6914" width="20" height="20" alt="" /> | **Performance target** | p50 latency below 80 ms |
-| <img src="https://api.iconify.design/lucide/book-open.svg?color=%238B6914" width="20" height="20" alt="" /> | **Reading** | *Clean Architecture* by Robert C. Martin |
+| <img src="https://api.iconify.design/lucide/hammer.svg?color=%23737373" width="20" height="20" alt="" /> | **Building** | Backend systems with NestJS, Go, and PostgreSQL, deployed with Docker on VPS infrastructure |
+| <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23737373" width="20" height="20" alt="" /> | **Studying** | Go concurrency patterns and gRPC; PostgreSQL query optimization |
+| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23737373" width="20" height="20" alt="" /> | **Exploring** | Bun runtime internals and edge computing |
+| <img src="https://api.iconify.design/lucide/gauge.svg?color=%23737373" width="20" height="20" alt="" /> | **Performance target** | p50 latency below 80 ms |
+| <img src="https://api.iconify.design/lucide/book-open.svg?color=%23737373" width="20" height="20" alt="" /> | **Reading** | *Clean Architecture* by Robert C. Martin |
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Engineering Principles
 </h2>
 
@@ -168,14 +113,14 @@
 
 | &nbsp; | Principle | Approach |
 |:---:|:---|:---|
-| <img src="https://api.iconify.design/lucide/route.svg?color=%238B6914" width="20" height="20" alt="" /> | **Data-flow oriented design** | Trace the complete data path, not only individual functions |
-| <img src="https://api.iconify.design/lucide/network.svg?color=%238B6914" width="20" height="20" alt="" /> | **Stateless by default** | Services designed to scale horizontally |
-| <img src="https://api.iconify.design/lucide/zap.svg?color=%238B6914" width="20" height="20" alt="" /> | **Latency as a requirement** | Performance is treated as a first-class concern |
-| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%238B6914" width="20" height="20" alt="" /> | **Single responsibility** | Each module owns exactly one concern |
-| <img src="https://api.iconify.design/lucide/lock.svg?color=%238B6914" width="20" height="20" alt="" /> | **Secure by default** | Authentication, rate limiting, and validation are standard practice |
-| <img src="https://api.iconify.design/lucide/package.svg?color=%238B6914" width="20" height="20" alt="" /> | **Incremental delivery** | Small, testable, and independently deployable units |
-| <img src="https://api.iconify.design/lucide/file-check.svg?color=%238B6914" width="20" height="20" alt="" /> | **Contract-first APIs** | API contracts are defined before implementation begins |
-| <img src="https://api.iconify.design/lucide/life-buoy.svg?color=%238B6914" width="20" height="20" alt="" /> | **Graceful failure handling** | Every error path is designed deliberately |
+| <img src="https://api.iconify.design/lucide/route.svg?color=%23737373" width="20" height="20" alt="" /> | **Data-flow oriented design** | Trace the complete data path, not only individual functions |
+| <img src="https://api.iconify.design/lucide/network.svg?color=%23737373" width="20" height="20" alt="" /> | **Stateless by default** | Services designed to scale horizontally |
+| <img src="https://api.iconify.design/lucide/zap.svg?color=%23737373" width="20" height="20" alt="" /> | **Latency as a requirement** | Performance is treated as a first-class concern |
+| <img src="https://api.iconify.design/lucide/puzzle.svg?color=%23737373" width="20" height="20" alt="" /> | **Single responsibility** | Each module owns exactly one concern |
+| <img src="https://api.iconify.design/lucide/lock.svg?color=%23737373" width="20" height="20" alt="" /> | **Secure by default** | Authentication, rate limiting, and validation are standard practice |
+| <img src="https://api.iconify.design/lucide/package.svg?color=%23737373" width="20" height="20" alt="" /> | **Incremental delivery** | Small, testable, and independently deployable units |
+| <img src="https://api.iconify.design/lucide/file-check.svg?color=%23737373" width="20" height="20" alt="" /> | **Contract-first APIs** | API contracts are defined before implementation begins |
+| <img src="https://api.iconify.design/lucide/life-buoy.svg?color=%23737373" width="20" height="20" alt="" /> | **Graceful failure handling** | Every error path is designed deliberately |
 
 <br/>
 
@@ -183,14 +128,10 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/activity.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/activity.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;GitHub Activity
 </h2>
 
@@ -198,28 +139,36 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&icon_color=c4a882&text_color=2d1f0e&border_radius=12" height="185" alt="GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&border_color=e5e5e5&border_radius=8" height="185" alt="GitHub statistics" />
+</picture>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&text_color=2d1f0e&border_radius=12&langs_count=8" height="185" alt="Most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=333333&border_color=e5e5e5&border_radius=8" height="185" alt="Most used languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=rynaqrtz&theme=solarized-light&hide_border=true&stroke=c4a882&ring=8B6914&fire=d4a017&currStreakNum=2d1f0e&sideNums=2d1f0e&sideLabels=8B6914&dates=888888&background=fdf6ec&border_radius=12" height="195" alt="GitHub contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rynaqrtz&background=0d1117&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=rynaqrtz&background=ffffff&border=e5e5e5&stroke=e5e5e5&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=555555&dates=777777&border_radius=8" height="195" alt="GitHub contribution streak" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=fdf6ec&color=8B6914&line=c4a882&point=d4a017&area=true&hide_border=true&area_color=f0e6d0&radius=6" width="100%" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363d&hide_border=true&radius=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&area_color=e5e5e5&hide_border=true&radius=6" width="100%" alt="Contribution activity graph" />
+</picture>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/users.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/users.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Collaboration and Networking
 </h2>
 
@@ -234,21 +183,17 @@
 
 | &nbsp; | Area | Description |
 |:---:|:---|:---|
-| <img src="https://api.iconify.design/lucide/server.svg?color=%238B6914" width="20" height="20" alt="" /> | **Backend and API projects** | Design and development of backend systems and APIs |
-| <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%238B6914" width="20" height="20" alt="" /> | **Open-source contribution** | Contributing to and collaborating on open-source projects |
-| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238B6914" width="20" height="20" alt="" /> | **Complex engineering problems** | Performance, scalability, and system design challenges |
-| <img src="https://api.iconify.design/lucide/users.svg?color=%238B6914" width="20" height="20" alt="" /> | **Professional networking** | Exchanging ideas and experience with fellow engineers |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%23737373" width="20" height="20" alt="" /> | **Backend and API projects** | Design and development of backend systems and APIs |
+| <img src="https://api.iconify.design/lucide/git-pull-request.svg?color=%23737373" width="20" height="20" alt="" /> | **Open-source contribution** | Contributing to and collaborating on open-source projects |
+| <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23737373" width="20" height="20" alt="" /> | **Complex engineering problems** | Performance, scalability, and system design challenges |
+| <img src="https://api.iconify.design/lucide/users.svg?color=%23737373" width="20" height="20" alt="" /> | **Professional networking** | Exchanging ideas and experience with fellow engineers |
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
-</div>
+<hr/>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide/mail.svg?color=%238B6914" width="22" height="22" alt="" />
+  <img src="https://api.iconify.design/lucide/mail.svg?color=%23737373" width="22" height="22" alt="" />
   &nbsp;Contact
 </h2>
 
@@ -256,19 +201,21 @@
 
 <div align="center">
 
-<a href="https://t.me/rynaaqrtz"><img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-8B6914?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2d1f0e" height="38" alt="Telegram" /></a>
+<a href="https://t.me/rynaaqrtz"><img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-3a3a3a?style=flat-square&logo=telegram&logoColor=white&labelColor=000000" height="28" alt="Telegram" /></a>
 &nbsp;&nbsp;
-<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-Message-d4a017?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1f0e" height="38" alt="WhatsApp" /></a>
+<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-Message-3a3a3a?style=flat-square&logo=whatsapp&logoColor=white&labelColor=000000" height="28" alt="WhatsApp" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-c4a882?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1f0e" height="38" alt="GitHub" /></a>
+<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-3a3a3a?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="28" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://api.iconify.design/lucide/map-pin.svg?color=%238B6914" width="16" height="16" alt="" />
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23737373" width="16" height="16" alt="" />
 &nbsp;<sub>Karawang, Indonesia &nbsp;·&nbsp; WIB (UTC+07:00)</sub>
 
 </div>
 
-<br/>
+<hr/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4a882,35:8B6914,70:d4a017,100:e8ddd0&height=140&section=footer&text=Open+to+collaboration+and+professional+networking&fontSize=15&fontColor=2d1f0e&fontAlignY=65&animation=fadeIn" width="100%" alt="Open to collaboration and professional networking" />
+<p align="center">
+  <sub>Open to collaboration and professional networking.</sub>
+</p>
