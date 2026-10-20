@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,35:e8ddd0,70:d4c4b0,100:c4a882&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=2d1f0e&fontAlignY=37&desc=backend+engineer+%C2%B7+indonesia+%C2%B7+静かに、されど確かに&descSize=15&descAlignY=63&descColor=5c3d1e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0eb,35:e8ddd0,70:d4c4b0,100:c4a882&height=270&section=header&text=rynaqrtz&fontSize=100&fontColor=2d1f0e&fontAlignY=37&desc=backend+engineer+%C2%B7+indonesia+%C2%B7+%E9%9D%99%E3%81%8B%E3%81%AB%E3%80%81%E3%81%95%E3%82%8C%E3%81%A9%E7%A2%BA%E3%81%8B%E3%81%AB&descSize=15&descAlignY=63&descColor=5c3d1e&animation=fadeIn" width="100%" alt="rynaqrtz — backend engineer, indonesia" />
 
 <br/>
 
@@ -8,32 +8,30 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=静かに、されど確かに;backend+engineer+%C2%B7+indonesia;Node.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+Bun;another+late+night%2C+another+endpoint.;build+clean.+ship+quiet.+scale+when+it+matters.)](https://git.io/typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1400&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=%E9%9D%99%E3%81%8B%E3%81%AB%E3%80%81%E3%81%95%E3%82%8C%E3%81%A9%E7%A2%BA%E3%81%8B%E3%81%AB;backend+engineer+%C2%B7+indonesia;Node.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+Bun;another+late+night%2C+another+endpoint.;build+clean.+ship+quiet.+scale+when+it+matters." alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
 <a href="https://github.com/rynaqrtz">
-  <img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=8B6914&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=rynaqrtz&color=8B6914&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile views" />
 </a>
 &nbsp;
 <a href="https://github.com/rynaqrtz?tab=followers">
-  <img src="https://img.shields.io/github/followers/rynaqrtz?color=c4a882&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=2d1f0e" />
-</a>
-&nbsp;
-<a href="https://github.com/rynaqrtz">
-  <img src="https://img.shields.io/github/stars/rynaqrtz?color=d4a017&style=for-the-badge&label=TOTAL+STARS&logo=github&logoColor=white&labelColor=2d1f0e" />
+  <img src="https://img.shields.io/github/followers/rynaqrtz?color=c4a882&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=2d1f0e" alt="GitHub followers" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:c4a882,50:8B6914,100:c4a882" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:c4a882,50:8B6914,100:c4a882" width="100%" alt="" />
 
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26" alt="" />
   &nbsp;About Me
-</h3>
+</h2>
 
 <br/>
 
@@ -52,22 +50,16 @@ const ryna: Developer = {
     "Database Design & Optimization",
   ],
 
-  currently : {
-    building  : "robust backend systems with NestJS & Go",
-    learning  : "Go concurrency patterns & gRPC",
-    exploring : "Bun runtime & edge compute",
-    obsessing : "clean API contracts & graceful error handling",
-  },
-
   stack     : {
     runtime   : ["Node.js", "Bun", "Go"],
-    framework : ["NestJS", "Express.js"],
     language  : ["TypeScript", "JavaScript", "Go"],
+    framework : ["NestJS", "Express.js"],
     database  : ["PostgreSQL", "MySQL", "Redis"],
-    devops    : ["Docker", "Prisma"],
+    orm       : ["Prisma"],
+    devops    : ["Docker"],
   },
 
-  philosophy : "build simple. scale when it matters. stay quiet. ship loud.",
+  philosophy : "build clean. ship quiet. scale when it matters.",
   openTo     : ["meaningful collabs", "open source", "hard problems"],
 };
 ```
@@ -77,10 +69,10 @@ const ryna: Developer = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 📡 &nbsp;`< Current Status />`
+<h2 align="center">📡 &nbsp;<code>&lt; Current Status /&gt;</code></h2>
 
 <br/>
 
@@ -120,10 +112,10 @@ reading  : Clean Architecture — Uncle Bob
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 🧠 &nbsp;`< Tech Stack />`
+<h2 align="center">🧠 &nbsp;<code>&lt; Tech Stack /&gt;</code></h2>
 
 <br/>
 
@@ -135,7 +127,7 @@ reading  : Clean Architecture — Uncle Bob
 
 **⚙️ Runtime & Language**
 
-<img src="https://skillicons.dev/icons?i=nodejs,go,ts,js,bun&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,ts,js,bun&theme=dark" alt="Node.js, Go, TypeScript, JavaScript, Bun" />
 
 `Node.js` · `Go` · `Bun`
 `TypeScript` · `JavaScript`
@@ -145,7 +137,7 @@ reading  : Clean Architecture — Uncle Bob
 
 **🏗️ Framework**
 
-<img src="https://skillicons.dev/icons?i=nestjs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,express&theme=dark" alt="NestJS, Express.js" />
 
 `NestJS` · `Express.js`
 
@@ -154,7 +146,7 @@ reading  : Clean Architecture — Uncle Bob
 
 **🗄️ Database & Cache**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma&theme=dark" alt="PostgreSQL, MySQL, Redis, Prisma" />
 
 `PostgreSQL` · `MySQL`
 `Redis` · `Prisma`
@@ -164,7 +156,7 @@ reading  : Clean Architecture — Uncle Bob
 
 **🛠️ DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" alt="Docker, Git, GitHub, VS Code, Postman" />
 
 `Docker` · `Git`
 `VS Code` · `Postman`
@@ -178,42 +170,44 @@ reading  : Clean Architecture — Uncle Bob
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 🏆 &nbsp;`< Stats />`
+<h2 align="center">🏆 &nbsp;<code>&lt; Stats /&gt;</code></h2>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&icon_color=c4a882&text_color=2d1f0e&border_radius=12&cache_seconds=1800" height="185" />
+<img src="https://github-readme-stats.vercel.app/api?username=rynaqrtz&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&icon_color=c4a882&text_color=2d1f0e&border_radius=12" height="185" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&text_color=2d1f0e&border_radius=12&langs_count=8&cache_seconds=1800" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynaqrtz&layout=compact&theme=solarized-light&hide_border=true&bg_color=fdf6ec&title_color=8B6914&text_color=2d1f0e&border_radius=12&langs_count=8" height="185" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=rynaqrtz&theme=solarized-light&hide_border=true&stroke=c4a882&ring=8B6914&fire=d4a017&currStreakNum=2d1f0e&sideNums=2d1f0e&sideLabels=8B6914&dates=888888&background=fdf6ec&border_radius=12" height="195" />
+<img src="https://streak-stats.demolab.com/?user=rynaqrtz&theme=solarized-light&hide_border=true&stroke=c4a882&ring=8B6914&fire=d4a017&currStreakNum=2d1f0e&sideNums=2d1f0e&sideLabels=8B6914&dates=888888&background=fdf6ec&border_radius=12" height="195" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=fdf6ec&color=8B6914&line=c4a882&point=d4a017&area=true&hide_border=true&area_color=f0e6d0&radius=6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rynaqrtz&bg_color=fdf6ec&color=8B6914&line=c4a882&point=d4a017&area=true&hide_border=true&area_color=f0e6d0&radius=6" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 🎵 &nbsp;`< Now Playing />`
+<h2 align="center">🎵 &nbsp;<code>&lt; Recently Played /&gt;</code></h2>
 
 <br/>
 
 <div align="center">
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31umwsbz4qfsv7feixuu5evcaj6m&count=5&unique=true&width=800)](https://open.spotify.com/user/31umwsbz4qfsv7feixuu5evcaj6m)
+<a href="https://open.spotify.com/user/31umwsbz4qfsv7feixuu5evcaj6m">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31umwsbz4qfsv7feixuu5evcaj6m&count=5&unique=true&width=800" alt="Spotify recently played" />
+</a>
 
 <br/>
 
@@ -224,10 +218,10 @@ reading  : Clean Architecture — Uncle Bob
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 🌸 &nbsp;`< Philosophy />`
+<h2 align="center">🌸 &nbsp;<code>&lt; Philosophy /&gt;</code></h2>
 
 <br/>
 
@@ -253,36 +247,39 @@ reading  : Clean Architecture — Uncle Bob
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 🐍 &nbsp;`< Contribution Snake />`
+<h2 align="center">🐍 &nbsp;<code>&lt; Contribution Snake /&gt;</code></h2>
 
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rynaqrtz/rynaqrtz/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c4a882,50:8B6914,100:c4a882&height=2" width="100%" alt="" />
 </div>
 
-## 💌 &nbsp;`< Connect />`
+<h2 align="center">💌 &nbsp;<code>&lt; Connect /&gt;</code></h2>
 
 <br/>
 
 <div align="center">
 
-<a href="https://t.me/rynaaqrtz"><img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-8B6914?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2d1f0e" height="38"/></a>
+<a href="https://t.me/rynaaqrtz"><img src="https://img.shields.io/badge/Telegram-%40rynaaqrtz-8B6914?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2d1f0e" height="38" alt="Telegram" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-c4a882?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1f0e" height="38"/></a>
+<a href="https://github.com/rynaqrtz"><img src="https://img.shields.io/badge/GitHub-rynaqrtz-c4a882?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1f0e" height="38" alt="GitHub" /></a>
 &nbsp;&nbsp;
-<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-Chat-d4a017?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1f0e" height="38"/></a>
+<a href="https://wa.me/6285775853364"><img src="https://img.shields.io/badge/WhatsApp-Chat-d4a017?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2d1f0e" height="38" alt="WhatsApp" /></a>
 
 <br/><br/>
 
@@ -290,7 +287,7 @@ reading  : Clean Architecture — Uncle Bob
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=8B6914&center=true&vCenter=true&width=720&lines=backend+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;without+music%2C+life+would+be+a+mistake.;NestJS+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Docker;build+clean.+ship+quiet.+scale+when+it+matters.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4800&pause=2800&color=8B6914&background=00000000&center=true&vCenter=true&width=720&lines=backend+engineer+%C2%B7+system+designer+%C2%B7+indonesia+%F0%9F%8C%B8;without+music%2C+life+would+be+a+mistake.;NestJS+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -298,4 +295,4 @@ reading  : Clean Architecture — Uncle Bob
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4a882,35:8B6914,70:d4a017,100:e8ddd0&height=140&section=footer&text=build+simple.+scale+smart.+stay+quiet.&fontSize=15&fontColor=2d1f0e&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4a882,35:8B6914,70:d4a017,100:e8ddd0&height=140&section=footer&text=build+clean.+ship+quiet.+scale+when+it+matters.&fontSize=15&fontColor=2d1f0e&fontAlignY=65&animation=fadeIn" width="100%" alt="build clean. ship quiet. scale when it matters." />
