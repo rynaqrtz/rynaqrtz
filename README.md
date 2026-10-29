@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/L4gbhKQ0/rynaqrtz.jpg" width="100%" alt="rynaqrtz — Backend Engineer" />
+<img src="https://cdn.zass.in/X4WADrDrAQ.jpg" width="100%" alt="rynaqrtz — Backend Engineer" />
 
 <br/><br/>
 
